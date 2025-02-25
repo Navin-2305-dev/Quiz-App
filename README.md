@@ -30,6 +30,10 @@ Ensure you have the following installed before running the project:
 - **Dart SDK**  
 - **Android Studio or VS Code** (with Flutter plugin)  
 
+## APK
+To Download the apk - [Download APK](https://drive.google.com/file/d/1n6CSqDPKIUuDllVuSn4s9Wg7KgNLFqWH/view?usp=sharing).
+
+
 ### Installation Steps  
 1. **Clone the repository:**  
    ```sh  
