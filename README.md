@@ -35,7 +35,7 @@ Ensure you have the following installed before running the project:
 ### Installation Steps  
 1. **Clone the repository:**  
    ```sh  
-   git clone [https://github.com/Navin-2305-dev/Quiz-App.git](https://github.com/Navin-2305-dev/Quiz-App.git) 
+   git clone https://github.com/Navin-2305-dev/Quiz-App.git
    cd quiz-app  
    ```  
 2. **Install dependencies:**  
