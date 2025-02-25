@@ -21,8 +21,6 @@ This project utilizes a variety of powerful Flutter packages to enhance function
 ✅ Optimized performance with Hive storage  
 ✅ Animated transitions for a smooth experience  
 
-## 📸 Demo  
-Check out the **process flow video** to see the app in action! 🎥  
 
 ## 🚀 Getting Started  
 ### Prerequisites  
